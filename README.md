@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @geroldrivia
-- 👀 I’m interested in programming and math.
-- 🌱 I’m currently learning Microsoft Azure and Python.
-- 📫 How to reach me: plebanczyk.igor@gmail.com
+###Skills
+-HTML/CSS (Advanced)
+-JavaScript (Intermediate)
+-Microsoft Azure (Beginner)
+-Python (Beginner)
+-Git & GitHub (Beginner)
