@@ -1,1 +1,1 @@
-
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorplebanczyk&theme=transparent&hide_border=true&layout=compact&hide=hack&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
