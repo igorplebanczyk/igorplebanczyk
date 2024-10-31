@@ -1,1 +1,1 @@
-![Most used languages](https://readme-stats-black-mu.vercel.app/api/top-langs/?username=igorplebanczyk&theme=transparent&hide_border=true&title_color=008080&layout=compact&disable_animations=false&exclude_repo=readme-stats,7_cudow_swiata,web-crawler-js&langs_count=6)
+![Most used languages](https://readme-stats-black-mu.vercel.app/api/top-langs/?username=igorplebanczyk&theme=transparent&hide_border=true&title_color=008080&layout=compact&disable_animations=false&exclude_repo=readme-stats,7_cudow_swiata,web-crawler-js,i27-backend&langs_count=6)
